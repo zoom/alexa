@@ -1,0 +1,19 @@
+{
+  "name": "zoomalexa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.21",
+    "body-parser": "^1.18.2",
+    "jsonwebtoken": "^8.1.0",
+    "request": "^2.83.0",
+    "sync-request": "^4.1.0"
+  }
+}
